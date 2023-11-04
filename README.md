@@ -27,3 +27,9 @@
                 alt="binary-lover" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&" alt="binary-lover" /></p>
   </div>
+
+<div style="width: 100%;">
+  <a href="[https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg](https://github.com/binary-lover/binary-lover/blob/main/test.svg)">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
