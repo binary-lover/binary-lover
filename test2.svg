@@ -1,4 +1,5 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
        .section{
@@ -9,14 +10,12 @@
        }
 
       </style>
-
      <div class="section">
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&show_icons=true&locale=en&layout=compact"
-                alt="binary-lover" /></p>
-    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=binary-lover&show_icons=true&locale=en"
-                alt="binary-lover" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&show_icons=true&locale=en&layout=compact" alt="binary-lover" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=binary-lover&show_icons=true&locale=en" alt="binary-lover" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&" alt="binary-lover" /></p>
   </div>
+    </foreignObject>
 </svg>
 
 
