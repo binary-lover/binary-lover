@@ -23,7 +23,7 @@
 <div>
     <p align = "left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&show_icons=true&locale=en&layout=compact"
                 alt="binary-lover" /></p>
-    <p align = "right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=binary-lover&show_icons=true&locale=en"
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=binary-lover&show_icons=true&locale=en"
                 alt="binary-lover" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&" alt="binary-lover" /></p>
 </div>
