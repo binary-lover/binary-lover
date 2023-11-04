@@ -1,0 +1,7 @@
+ <div display = "flex" style="display: flex;flex-wrap: wrap;justify-content: flex-start;align-items: flex-start;">
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&show_icons=true&locale=en&layout=compact"
+                alt="binary-lover" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=binary-lover&show_icons=true&locale=en"
+                alt="binary-lover" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&" alt="binary-lover" /></p>
+  </div>
