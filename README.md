@@ -29,6 +29,6 @@
   </div>
 
 <div style="width: 100%; background: red;">
-  <p>lucky asnri</p>
+  <p background ="red">lucky asnri</p>
   </a>
 </div>
