@@ -29,7 +29,7 @@
   </div>
 
 <div style="width: 100%;">
-  <a href="[https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg](https://github.com/binary-lover/binary-lover/blob/main/test.svg)">
+  <a href="https://github.com/binary-lover/binary-lover/blob/main/test.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
