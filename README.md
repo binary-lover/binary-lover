@@ -28,8 +28,7 @@
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&" alt="binary-lover" /></p>
   </div>
 
-<div style="width: 100%;">
-  <a href="https://github.com/binary-lover/binary-lover/blob/main/test2.svg">
-    <img src="test2.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%; background: red;">
+  <p>lucky asnri</p>
   </a>
 </div>
