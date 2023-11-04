@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Binary lover</h1>
 <h3 align="center">Looking opportunities in Ethical Hacking</h3>
-<p align="left"> <img src="<p align="left"> <img src="[https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=0e75b6&style=flat](https://media.istockphoto.com/id/1370929377/photo/close-up-of-computer-programmer-coding.jpg?s=1024x1024&w=is&k=20&c=AuomicJhlLUs6ToYnk-3IreD9tmzSp8ovvNcleHIzqM=)" alt="binary-lover" /> </p>" </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=0e75b6&style=flat" alt="binary-lover" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binary-lover" alt="binary-lover" /></a> </p>
