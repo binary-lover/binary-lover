@@ -30,6 +30,6 @@
 
 <div style="width: 100%;">
   <a href="https://github.com/binary-lover/binary-lover/blob/main/test.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="test.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
