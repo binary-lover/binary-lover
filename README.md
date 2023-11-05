@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?logo=mysql&logoColor=white&labelColor=blue&color=white)
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=blue&labelColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=blue&labelColor=white&color=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=yellow&labelColor=black&color=black) 
 ![HTML5](https://img.shields.io/badge/HTML-purple?logo=html5&logoColor=yellow&color=purple)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=red&color=sky)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
