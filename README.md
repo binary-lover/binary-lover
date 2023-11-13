@@ -25,12 +25,14 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=red&color=sky)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
-<div align = "center" >
-<span><img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="binary-lover" /></span>
-<span>&nbsp;<img width=330 src="https://github-readme-stats.vercel.app/api?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en" alt="binary-lover" /></span>
-<span><img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&theme=radical&" alt="binary-lover" /></span>
+<div align = "center" ><span>
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="1binary-lover" /></span>
+<span>&nbsp;
+  <img width=330 src="https://github-readme-stats.vercel.app/api?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en" alt="2binary-lover" /></span>
+<span>
+  <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&theme=radical&" alt="binary-lover" /></span>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binary-lover&theme=radical" alt="binary-lover" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binary-lover&theme=radical" alt="3binary-lover" /></a> </p>
 <p></p>
 
 <p  align="center"> <img width = "140" src="https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=0e75b6&style=flat" alt="binary-lover" /> </p>
