@@ -26,7 +26,6 @@
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
 <div align = "center" >
-  
 <span><img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="binary-lover" /></span>
 <span>&nbsp;<img width=330 src="https://github-readme-stats.vercel.app/api?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en" alt="binary-lover" /></span>
 <span><img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&theme=radical&" alt="binary-lover" /></span>
