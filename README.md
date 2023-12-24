@@ -25,7 +25,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=yellow&labelColor=black&color=black) 
 ![HTML5](https://img.shields.io/badge/HTML-purple?logo=html5&logoColor=yellow&color=purple)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=red&color=sky)
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-blue)
+![Shell](https://img.shields.io/badge/Shell-green?logo=shell&logoColor=black&labelColor=yellow)
+![Github](https://img.shields.io/badge/Github-white?logo=github&logoColor=black&labelColor=white&color=black)
 
 <div align = "center" ><span>
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="1binary-lover" /></span>
