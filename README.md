@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/binarylover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="binarylover" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/binarylover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binarylover" height="30" width="40" /></a>
+<a href="https://www.instagram.com/binary_lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binarylover" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
