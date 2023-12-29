@@ -47,7 +47,7 @@
 
 <div align = "center" >
 <span>
-  <img  height=170 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="1binary-lover" />
+  <img  height=138 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="1binary-lover" />
 </span> 
 
 <span>
