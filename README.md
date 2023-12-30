@@ -62,5 +62,5 @@
 <p></p>
 
 <a href="https://github.com/binary-lover/profile_counter_auto_increment">
-<p  align="center"> <img width = "140" src="https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=0e75b6&style=flat" alt="binary-lover" /> </p>
+<p  align="center"> <img width = "140" src="https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=red&style=flat" alt="binary-lover" /> </p>
 </a>
