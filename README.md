@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [ED Cryption](https://github.com/binary-lover/ED-cryption) 
 -->
 
-- 🌱 I’m currently learning **Backend development with javascript and Cyber Security**
+- 🌱 I’m currently learning **Backend development with javascript** and **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
