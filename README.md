@@ -1,7 +1,7 @@
 <img align = "center" object-fit = "contain" src = "https://github.com/binary-lover/binary-lover/blob/main/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 
 <div >
-<img align = "right" alt = "coding" width = "350"  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNqOTVmaG1pb2pvMXVvaXltN3k2azRmYXdjcWlxdjBnZ2JvOTg0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJ6K7XnP2K2p3VWft/giphy.gif"
+<img align = "right" alt = "coding" width = "350"  src = "https://media1.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47prqb22tcv3qt5qlkldn8li47pt3lbf1lw44eloy8&ep=v1_gifs_related&rid=giphy.gif&ct=g"
 ></p>
 <!---
 - 🔭 I’m currently working on [ED Cryption](https://github.com/binary-lover/ED-cryption) 
