@@ -1,8 +1,8 @@
 <img align = "center" object-fit = "contain" src = "https://github.com/binary-lover/binary-lover/blob/main/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 
 <div >
-<img align = "right" alt = "coding" width = "350"  src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
+<img align = "right" alt = "coding" width = "350"  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNqOTVmaG1pb2pvMXVvaXltN3k2azRmYXdjcWlxdjBnZ2JvOTg0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJ6K7XnP2K2p3VWft/giphy.gif"
+></p>
 <!---
 - 🔭 I’m currently working on [ED Cryption](https://github.com/binary-lover/ED-cryption) 
 -->
@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **Cyber Security**
 
 </div>
+<br>
 <br>
 <br>
 <br>
