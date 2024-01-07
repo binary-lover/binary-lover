@@ -1,26 +1,24 @@
-<img align = "center" object-fit = "contain" src = "https://github.com/binary-lover/binary-lover/blob/main/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
 
 <div >
 <img align = "right" alt = "coding" width = "350"  src = "https://media1.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47prqb22tcv3qt5qlkldn8li47pt3lbf1lw44eloy8&ep=v1_gifs_related&rid=giphy.gif&ct=g"
-></p>
-<!---
-- 🔭 I’m currently working on [ED Cryption](https://github.com/binary-lover/ED-cryption) 
--->
+>
+
+## 💫 About Me
+
+- 🎄 I am Binary lover From India
 
 - 🌱 I’m currently learning **Backend development with javascript**, **Cyber Security** and **DSA**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
+- 🔭 I’m currently working on [JavaScript](https://github.com/binary-lover/JavaScript-Notes-and-Code) 
+
+
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <div>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left"> 🔗 Connect with me:</h2>
 
 <p align="left">
 <a href="https://www.hackerrank.com/binarylover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="binarylover" height="30" width="40" /></a>
