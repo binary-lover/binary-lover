@@ -7,7 +7,7 @@
 
 - 🎄 I am Binary lover From India
 
-- 🌱 I’m currently learning **Express - Node** and **DSA**
+- 🌱 I’m currently learning **Cyber Security** and **DSA**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
