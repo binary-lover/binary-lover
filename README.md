@@ -1,7 +1,6 @@
-
-<div >
-<img align = "right" alt = "coding" width = "350"  src = "https://media1.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47prqb22tcv3qt5qlkldn8li47pt3lbf1lw44eloy8&ep=v1_gifs_related&rid=giphy.gif&ct=g"
->
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg">
+</p>
 
 ## 💫 About Me
 
