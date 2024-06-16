@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg">
-</p>
+
+
+[//]: <> (<p align="center"> <img width="1000" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p>)
 
 ## 💫 About Me
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
-- 🔭 I’m currently working on [JavaScript](https://github.com/binary-lover/JavaScript-Notes-and-Code) 
+- 🔭 I’m currently working on [CyberSec-Notes](https://github.com/binary-lover/CyberSecurityNotes) 
 
 
 </div>
