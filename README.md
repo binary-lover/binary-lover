@@ -1,6 +1,4 @@
-
-
-[//]: <> (<p align="center"> <img width="1000" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p>)
+<p align="center"> <img width="1000" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p>
 
 ## 💫 About Me
 
