@@ -54,8 +54,8 @@
 </span>
 
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binary-lover&theme=radical" alt="4binary-lover" /></a> </p>
-<p></p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binary-lover&theme=radical" alt="4binary-lover" /></a> </p>
+<p></p> -->
 
 <a href="https://github.com/binary-lover/profile_counter_auto_increment">
 <p  align="center"> <img width = "140" src="https://komarev.com/ghpvc/?username=binary-lover&label=Profile%20views&color=red&style=flat" alt="binary-lover" /> </p>
