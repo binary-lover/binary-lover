@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on [CyberSec-Notes](https://github.com/binary-lover/CyberSecurityNotes) 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/binarylover.png" alt="Your Image Badge" />
 
 </div>
 <br>
