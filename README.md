@@ -4,11 +4,10 @@
 
 - 🎄 I am Binary lover From India
 
-- 🌱 I’m currently learning **Cyber Security** and **DSA**
+- 🌱 I’m currently learning **SOC**, **CTFs** and **DSA**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
-- 🔭 I’m currently working on [CyberSec-Notes](https://github.com/binary-lover/CyberSecurityNotes) 
 
 </div>
 <br>
