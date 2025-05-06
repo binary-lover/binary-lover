@@ -11,16 +11,6 @@
 
 </div>
 <br>
-<div>
-
-<h2 align="left"> 🔗 Connect with me:</h2>
-
-<a href="https://www.instagram.com/binary_lover" target="blank"><img  src="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=red" alt="binarylover"  /></a>
-
-</div>
-<br
-<h2 align="left">Languages and Tools:</h2>
-<div>
 
 ![Python](https://img.shields.io/badge/python-yellow?logo=python&logoColor=yellow&labelColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?logo=mysql&logoColor=white&labelColor=blue&color=white)
