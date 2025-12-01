@@ -4,9 +4,9 @@
 
 - 🎄 I am Binary lover From India
 
-- 🌱 I’m currently learning **SOC**, **CTFs** and **DSA**
+- 🌱 I’m currently learning **Security Operations** & **CTFs**.
 
-- 👯 I’m looking to collaborate on **Cyber Security**
+- 👯 I’m looking opportunities in **Cyber Security**
 
 
 </div>
@@ -26,13 +26,12 @@
   
 
 <div align = "center" >
-<span>
+<!-- <span>
   <img  height=138 src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en&layout=compact" alt="1binary-lover" />
 </span> 
-
 <span>
   <img width=330 src="https://github-readme-stats.vercel.app/api?username=binary-lover&theme=radical&hide=glsl&show_icons=true&locale=en" alt="2binary-lover" />
-</span>
+</span> -->
 <span>
   <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=binary-lover&theme=radical&" alt="3binary-lover" />
 </span>
